@@ -1,5 +1,6 @@
-# Dash Workshop - Plotcon NYC 2017
-Syllabus for the Dash Workshop in Plotcon NYC Fall 2017.
+# Dash Workshop - Montréal ❄ February 2018
+
+Syllabus for Montréal Dash Workshop, February 2018.
 
 Dash is a new open source library for creating user interfaces in pure Python: no Javascript required. Dash allows you to bind interactive controls like sliders, dropdowns, and search boxes with interactive output widgets like graphs, tables, and text boxes.
 
